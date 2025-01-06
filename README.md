@@ -18,3 +18,6 @@ For each week of the program, each youth recorded meals and etc. to the best of 
   * Stretching time in minutes
 
 You can find the tables for each week in the repository marked as FollowmystepsWeek(week number).
+
+# Constants
+There were only a few constant factors that were part of the 7 week program. Every Friday, there was the health and wellness portion of the program where the youth were taught about health food options. From getting provided groceries to learning how to cook certain things in house, it gave a great lunch meal durning those Fridays. And later, a fitness componet was added component to ensure a quota of at least 3 excerices were met each week. 
